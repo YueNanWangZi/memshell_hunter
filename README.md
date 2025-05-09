@@ -25,7 +25,7 @@ Spring内存马特征
 ### 安装依赖
 pip install psutil
 检测运行中的Java服务
-python memshell_hunter.py -p 8080  # 替换成你的Tomcat端口
+python memshell_hunter.py -p 8080  # 替换成你的Tomcat端口  
 或者直接分析堆转储文件
 python memshell_hunter.py -f heapdump.hprof
 ### 查看报告
