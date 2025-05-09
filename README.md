@@ -1,4 +1,4 @@
-# memshell_hunter-快速目标端口的web应用是否被注入内存马
+# memshell_hunter-快速发现内存马
 
 ## 🔍 这工具能干啥？
 ### 🎯 精准识别
